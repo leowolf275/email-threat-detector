@@ -73,3 +73,10 @@ Popup renders the results
 | `background/service_worker.js` | Gemini API calls, prompt building, caching |
 | `content/email_extractor.js` | Pulls email data out of Gmail's page |
 | `popup/popup.html` + `popup.js` | The UI you see when you click the extension |
+
+## AI usage
+
+Built with help from AI:
+
+- **GitHub Copilot (Claude)** - helped write and debug code throughout development
+- **Google Gemini 2.5 Flash** - the model that analyzes emails at runtime and scores them for threats

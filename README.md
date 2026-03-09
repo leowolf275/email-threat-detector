@@ -14,6 +14,9 @@ You click the extension while reading an email, and it pulls out the sender, sub
 
 Results get cached for 10 minutes so you're not burning API calls if you re-scan.
 
+## Demonstration video
+https://github.com/leowolf275/email-threat-detector/raw/main/demo.mp4
+
 ## Getting started
 
 1. **Clone or download** this repo
